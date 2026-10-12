@@ -1,5 +1,8 @@
 # ML-Powered Customer Analytics: Telco Customer Churn
 
+<img width="1530" height="726" alt="image" src="https://github.com/user-attachments/assets/67648ab9-f91f-4cb4-af67-5ed146f869c8" />
+
+
 End-to-end machine learning project that predicts customer churn for a telecom provider. Across Weeks 1–4, it covers exploratory analysis, model evaluation, hyperparameter optimization, customer segmentation, model packaging, training–serving parity testing, and a Streamlit web app for customer risk scoring.
 
 | | |
